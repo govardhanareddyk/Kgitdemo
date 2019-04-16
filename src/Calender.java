@@ -33,6 +33,10 @@ public class Calender {
         
         }
 	}
+	public void closewindow(WebDriver driver)
+	{
+		driver.close();
+	}
 }
         
         
