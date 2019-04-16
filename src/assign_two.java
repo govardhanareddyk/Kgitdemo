@@ -43,6 +43,9 @@ public class assign_two {
 		{
 
 			System.out.println("Alert message success");
+			System.out.println("Alert message success");
+			System.out.println("Alert message success");
+			System.out.println("Alert message success");
 
 		}
 
