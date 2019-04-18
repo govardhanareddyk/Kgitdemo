@@ -36,6 +36,9 @@ public class Links {
 		{
 			driver.switchTo().window(it.next());
 			System.out.println(driver.getTitle());
+			System.out.println(driver.getTitle());
+			System.out.println(driver.getTitle());
+			
 		}
 
 	

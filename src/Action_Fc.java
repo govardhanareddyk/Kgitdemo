@@ -16,6 +16,7 @@ public class Action_Fc {
         Actions a=new Actions(driver);
         a.moveToElement(driver.findElement(By.xpath("//*[@id='birthday-help']"))).build().perform();
         System.out.println(driver.getTitle());
+        System.out.println(driver.getTitle());
     
 
 	}
